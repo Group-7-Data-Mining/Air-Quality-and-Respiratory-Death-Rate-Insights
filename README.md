@@ -1,4 +1,4 @@
-# Data Mining Final Project Group 7
+# Air Quality Index & Respiratory Death Insights 
 ## INTRODUCTION
 Our project focuses on identifying relationships and patterns between air quality indicators and health outcomes to determine which pollutants have the greatest negative impact on human health. By examining air pollution levels and overall air quality across different regions and time periods, we aim to uncover trends that highlight key environmental risk factors. Through this analysis, we hope to provide data-driven insights that can inform public health initiatives and guide future environmental policy decisions.
 
